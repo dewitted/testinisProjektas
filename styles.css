@@ -1,0 +1,23 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table .table_row_1 {
+  font-size: 12px;
+}
+table .table_row_2 {
+  font-size: 14px;
+}
+table .table_row_3 {
+  font-size: 16px;
+}
+table .table_row_4 {
+  font-size: 13px;
+}
+table .table_row_5 {
+  font-size: 10px;
+}
+table .table_row_5 td:last-child {
+  font-style: italic;
+}/*# sourceMappingURL=styles.css.map */
